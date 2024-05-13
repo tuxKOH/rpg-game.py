@@ -1,3 +1,4 @@
+#made bye tux(discord tux_KOH#5278) 
 import random
 import time
 import sys
