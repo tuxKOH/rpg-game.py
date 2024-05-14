@@ -410,7 +410,7 @@ def start_game():
                     else:
                          print("u have no stats pooorr")
 #made by tux!!!! 
-                if stats_choice == "4":
+                if x10stats_choice == "4":
                     if player["stats"] > 9:
                         player["stats"] = player["stats"] - 10
                         player["max_mp"] = player["max_mp"] + 50
